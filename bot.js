@@ -785,4 +785,4 @@ client.on('message', message => {
            }
 });
 
-client.login('NTEwNDYxOTU2NjkyMzc3NjIy.DuRjyA.AUckKwyLAL8iuFNjRlzlF3vkvYc')
+client.login('NTE4NDkxMTIyNTk5OTg1MTc3.DuvjnA.qdIHyFtjB4weVi8ExF6_7WC8w8w')
